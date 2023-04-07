@@ -1,8 +1,12 @@
 {
   "name": "crud-mern-stack",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "This project is a CRUD (Create, Read, Update and Delete), applying the full javascript stack (MongoDB, Express, React, Node).",
   "type": "module",
+  "main": "main.tsx",
+  "keywords": ["CRUD","MongoDB","Express","React","Node"],
+  "author": "Lucas Quiroga",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

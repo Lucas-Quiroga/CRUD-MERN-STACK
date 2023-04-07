@@ -5,7 +5,13 @@
   "description": "This project is a CRUD (Create, Read, Update and Delete), applying the full javascript stack (MongoDB, Express, React, Node).",
   "type": "module",
   "main": "main.tsx",
-  "keywords": ["CRUD","MongoDB","Express","React","Node"],
+  "keywords": [
+    "CRUD",
+    "MongoDB",
+    "Express",
+    "React",
+    "Node"
+  ],
   "author": "Lucas Quiroga",
   "scripts": {
     "dev": "vite",
@@ -14,7 +20,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
